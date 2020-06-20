@@ -1,0 +1,6 @@
+Order ID : 1
+Date : 2-2-2020
+Table : 1
+Ordered Items : 
+varza calita 15
+Total price : 15
